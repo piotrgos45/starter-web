@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Piotr Gos piotrgos45@gmail.com @Gosik1
 
 # THANKS
 
